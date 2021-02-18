@@ -40,7 +40,8 @@
    **Link**    
    [Nature pic](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fnature%2520background%2F&psig=AOvVaw09LqTsop9lFQ_0LI9o4DMc&ust=1613725395528000&source=images&cd=vfe&ved=0CAsQjhxqFwoTCNDMweGJ8-4CFQAAAAAdAAAAABAJ)
    
-   **Table**         
+   **Tables**              
+   
     Name|Branch|College
     -----------------
    abc|CSE|VRESC                   
